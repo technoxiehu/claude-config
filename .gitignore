@@ -1,0 +1,5 @@
+# 本地专属配置（如果不想同步）
+.claude/settings.local.json
+.claude/session-env/
+
+# 其他不想同步的文件
