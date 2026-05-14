@@ -29,6 +29,36 @@
         "installedAt": "2026-05-10T14:37:04.739Z",
         "lastUpdated": "2026-05-10T14:37:04.739Z"
       }
+    ],
+    "claude-hud@claude-hud": [
+      {
+        "scope": "user",
+        "installPath": "/home/ubuntu/.claude/plugins/cache/claude-hud/claude-hud/0.1.0",
+        "version": "0.1.0",
+        "installedAt": "2026-05-13T16:06:41.042Z",
+        "lastUpdated": "2026-05-13T16:06:41.042Z",
+        "gitCommitSha": "0f30a3ddd1429d50d310f71176b9394771402265"
+      }
+    ],
+    "andrej-karpathy-skills@karpathy-skills": [
+      {
+        "scope": "user",
+        "installPath": "/home/ubuntu/.claude/plugins/cache/karpathy-skills/andrej-karpathy-skills/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-05-13T16:14:28.539Z",
+        "lastUpdated": "2026-05-13T16:14:28.539Z",
+        "gitCommitSha": "2c606141936f1eeef17fa3043a72095b4765b9c2"
+      }
+    ],
+    "ecc@ecc": [
+      {
+        "scope": "user",
+        "installPath": "/home/ubuntu/.claude/plugins/cache/ecc/ecc/2.0.0-rc.1",
+        "version": "2.0.0-rc.1",
+        "installedAt": "2026-05-13T16:17:39.228Z",
+        "lastUpdated": "2026-05-13T16:17:39.228Z",
+        "gitCommitSha": "9a5ed3223aac8b927e5d4a17b6c7c0690eac0b44"
+      }
     ]
   }
 }
